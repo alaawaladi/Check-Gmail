@@ -24,9 +24,10 @@ Add Proxy for Script
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+Pull requests are welcome. For major changes
 
+## Hint
+if you find this script useful give us a star for More  😉 😎
 
 ## License
 
